@@ -7,3 +7,5 @@ hardware/~input-stage.sch
 hardware/blob (PCB - Forward Design Changes Report).txt
 hardware/blob (PCB - Transfer from Schematic to PCB.).txt
 hardware/blob (PCB - Schematic and PCB Check Report).txt
+hardware/*.cir
+hardware/*.sp
