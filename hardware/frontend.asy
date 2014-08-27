@@ -1,6 +1,6 @@
 Version 4
 SymbolType BLOCK
-RECTANGLE Normal 32 120 -61 -116
+RECTANGLE Normal 32 120 -99 -116
 PIN 32 -64 RIGHT 8
 PINATTR PinName com
 PINATTR SpiceOrder 1
